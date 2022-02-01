@@ -37,6 +37,19 @@
     color: #fff;
 }
 
+.field__size {
+    margin-bottom: 20px;
+}
+
+.field__radio {
+    color: #fff;
+    margin-right: 20px;
+}
+
+.field__sity {
+    color: #000;
+}
+
 .field__link {
     color: #f45e1f;
     font-size: 20px;
@@ -51,4 +64,8 @@
 
 .field__link:hover {
     border-color: #f45e1f;
+}
+
+.state {
+    padding: 15px;
 }
